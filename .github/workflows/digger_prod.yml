@@ -1,4 +1,4 @@
-name: Digger Workflow
+name: Digger Workflow prod
 
 on:
   workflow_dispatch:
